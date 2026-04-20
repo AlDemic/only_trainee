@@ -1,4 +1,7 @@
 # Only Trainee Tasks demonstration 
 
-## TASK 1 GIF
-![result demonstration gif](screenshots/view.gif)
+## TASK 2 DEMONSTRATION
+![path](screenshots/path.png)
+![error](screenshots/error-demon.png)
+![web form](screenshots/web-form-bitrix.png)
+![html view](screenshots/html-view.png)
