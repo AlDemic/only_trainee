@@ -5,5 +5,5 @@
 ![news-complex](screenshots/news-complex.png)
 ![news-list-main](screenshots/news-list.png)
 ![news-detail](screenshots/news-detail.png)
-![news-detail-code](screenshots/news-detail-code.png)
+![news-detail-code](screenshots/news-detail-code-edit.png)
 ![news-cat](screenshots/news-cat.png)
