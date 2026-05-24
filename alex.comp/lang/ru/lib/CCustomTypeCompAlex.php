@@ -1,0 +1,13 @@
+<?php
+$MESS['UFCUST_DESC'] = 'Комплексное свойство for UF[alex]';
+$MESS['IEX_CPROP_SHOW_TEXT'] = 'Показать';
+$MESS['IEX_CPROP_HIDE_TEXT'] = 'Свернуть';
+$MESS['IEX_CPROP_CLEAR_TEXT'] = 'Удалить';
+$MESS['IEX_CPROP_ERROR_INCORRECT_SETTINGS'] = 'Не заполнен список полей в настройках свойства';
+$MESS['IEX_CPROP_SETTING_FIELD_TITLE'] = 'Название';
+$MESS['IEX_CPROP_SETTING_FIELD_SORT'] = 'Сорт.';
+$MESS['IEX_CPROP_SETTING_FIELD_TYPE'] = 'Тип';
+$MESS['IEX_CPROP_SETTING_BTN_ADD'] = 'Добавить';
+$MESS['IEX_CPROP_SETTINGS_TITLE'] = 'Список полей';
+$MESS['IEX_CPROP_FIELD_TYPE_STRING'] = 'Строка';
+$MESS['IEX_CPROP_FIELD_TYPE_HTML'] = 'HTML редактор';
